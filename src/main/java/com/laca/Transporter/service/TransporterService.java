@@ -1,5 +1,5 @@
 package com.laca.Transporter.service;
-import com.laca.ConnectDB.ConnectDB;
+import com.laca.connectDB.ConnectDB;
 import com.laca.entity.Transporter;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;

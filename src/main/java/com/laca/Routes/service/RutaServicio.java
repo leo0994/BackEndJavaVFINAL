@@ -1,13 +1,6 @@
 package com.laca.Routes.service;
 
-import com.laca.ConnectDB.ConnectDB;
-import com.laca.Routes.builder.builder.Builder_Ruta;
-import com.laca.Routes.builder.builder.IBuilder_Ruta;
-import com.laca.Routes.builder.clases.Coordenadas;
-import com.laca.Routes.builder.clases.Latitud;
-import com.laca.Routes.builder.clases.Longitud;
-import com.laca.Routes.builder.director.RutaBuilderDirector;
-import com.laca.Routes.builder.enums.TipoRuta;
+import com.laca.connectDB.ConnectDB;
 import com.laca.entity.Ruta;
 import org.springframework.stereotype.Service;
 
