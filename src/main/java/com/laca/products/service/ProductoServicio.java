@@ -1,6 +1,6 @@
 package com.laca.products.service;
 
-import com.laca.ConnectDB.ConnectDB;
+import com.laca.connectDB.ConnectDB;
 import com.laca.entity.Products;
 import com.laca.products.builder.enums.TypeProduct;
 import org.springframework.stereotype.Service;
